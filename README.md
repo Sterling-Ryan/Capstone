@@ -1,8 +1,7 @@
 # Capstone
 
-The dump folder contains my attempts at creating login forms to show the database connection
-
-Most of the work for phase two can be found in the login folder and in index.php
+##Phase 2 Notes:
+The dump folder contains my attempts at creating login forms to show the database connection. My GitHub pages link no longer works since I changed my index page to php. Most of the work for phase two can be found in the login folder and in index.php
 
 Deliverables for Phase 2 were: 
 - [x] Research Database Creation
