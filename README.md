@@ -1,5 +1,5 @@
 # Capstone
 
-You can check out the website on my GitHub Pages
+The dump folder contains my attempts at creating login forms to show the database connection
 
-[Capstone Website on GitHub Pages](https://sterling-ryan.github.io/Capstone/)
+Most of the work for phase two can be found in the login folder and in index.php
