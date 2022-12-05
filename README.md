@@ -9,3 +9,4 @@ Deliverables for Phase 3 were:
 - [x] Shopping Cart Created
 - [x] Items can be added to cart
 - [x] Code polish (changed some style issues)
+- [x] Final checks
