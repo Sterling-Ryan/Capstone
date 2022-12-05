@@ -1,7 +1,7 @@
 # Capstone
 
-## Phase 2 Notes:
-The dump folder contains my attempts at creating login forms to show the database connection. My GitHub pages link no longer works since I changed my index page to php. Most of the work for phase two can be found in the login folder and in index.php
+## Phase 3 Notes:
+Most of the changes made in phase 3 are contained in the cart.php file. I scrapped an early attempt at a product page which is now in my dump folder. My original deliverable said "Gallery displays database info" but I really just meant that the website can display information from the database anywhere so I think I still completed the deliverable. Shopping cart has some issues. Can only add one card id at a time. 
 
 Deliverables for Phase 3 were: 
 - [x] Database populated with card data
