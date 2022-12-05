@@ -8,7 +8,7 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
     </head>
 
-    <body>
+    <body class="bg-secondary bg-gradient">
 
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark bg-gradient sticky-top">
             <div class="container-fluid">
@@ -41,60 +41,8 @@
               <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
                 <div class="col">
                   <div class="card shadow-sm">
-                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-        
-                    <div class="card-body">
-                      <p class="card-text">Item Description</p>
-                      <div class="d-flex justify-content-between align-items-center">
-                        <div class="btn-group">
-                          <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                          <button type="button" class="btn btn-sm btn-outline-secondary">Order</button>
-                        </div>
-                        <small class="text-muted">Price here</small>
-                      </div>
-                    </div>
-
-                  </div>
-                </div>
-                <div class="col">
-                  <div class="card shadow-sm">
-                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-        
-                    <div class="card-body">
-                      <p class="card-text">Item Description</p>
-                      <div class="d-flex justify-content-between align-items-center">
-                        <div class="btn-group">
-                          <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                          <button type="button" class="btn btn-sm btn-outline-secondary">Order</button>
-                        </div>
-                        <small class="text-muted">Price here</small>
-                      </div>
-                    </div>
-
-                  </div>
-                </div>
-                <div class="col">
-                  <div class="card shadow-sm">
-                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-        
-                    <div class="card-body">
-                      <p class="card-text">Item Description</p>
-                      <div class="d-flex justify-content-between align-items-center">
-                        <div class="btn-group">
-                          <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                          <button type="button" class="btn btn-sm btn-outline-secondary">Order</button>
-                        </div>
-                        <small class="text-muted">Price here</small>
-                      </div>
-                    </div>
-
-                  </div>
-                </div>
-        
-                <div class="col">
-                  <div class="card shadow-sm">
-                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-        
+                    <svg class="bd-placeholder-img card-img-top" width="100%" height="225" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Flower Card</title><rect width="100%" height="100%" src="images/flowercard.jpg"/></svg>
+                    
                     <div class="card-body">
                       <p class="card-text">Item Description</p>
                       <div class="d-flex justify-content-between align-items-center">

@@ -8,7 +8,7 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
     </head>
 
-    <body>
+    <body class="bg-secondary bg-gradient">
 
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark bg-gradient sticky-top">
             <div class="container-fluid">

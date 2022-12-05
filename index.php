@@ -39,7 +39,7 @@ session_start();
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
     </head>
 
-    <body>
+    <body class="bg-secondary bg-gradient">
 
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark bg-gradient sticky-top">
             <div class="container-fluid">
@@ -55,9 +55,9 @@ session_start();
                         <a class="nav-link" href="gallery.php">Gallery</a>
                         <a class="nav-link" href="about.php">About</a>
                         <a class="nav-link" href="contact.php">Contact</a>
-                        <a class="nav-link" href="registration/register.php">Register</a>
+                        <!-- <a class="nav-link" href="registration/register.php">Register</a> -->
                         <a class="nav-link float-end" href="cart.php">Cart</a> 
-                        <a class="nav-link" href="server.php">DatabaseConnectionTest</a>
+                        <!-- <a class="nav-link" href="server.php">DatabaseConnectionTest</a> -->
                         <a class="nav-link" href="login/login.php">Login</a>
                     </div>
                 </div>
@@ -71,7 +71,7 @@ session_start();
         </div>
 
         <div class="container-fluid">
-            <img src="images\ahmed-4Qny1OxMDyQ-unsplash.jpg" height="auto" width="100%" alt="Background">
+            <img src="images/ahmed-4Qny1OxMDyQ-unsplash.jpg" height="auto" width="100%" alt="Background">
         </div>
 
         <div class="cover-container text-center d-flex w-100 h-100 p-3 mx-auto flex-column">
